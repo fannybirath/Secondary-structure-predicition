@@ -16,7 +16,8 @@ Dataset 4, 1600, 4000, 10, 80
 All the code is built up by functions with all parameters as well as the dataset, training, name of output report (consisting of F1 score and accuracy), name of the predictions document (consisting of the models predictions). 
 
 # Random Forest
-
+The random forest code can be found in: Random_Forest.ipynb
+It consist of a function that needs to be run to perform tests. Then the function calling are all in the code. First testing is done on the first two datasets. Then optimization is performed. Then those values are inserted into the calling function for the model to test the outcome. This is done for the rest of the datasets.
 
 # CNN model: 
 The CNN model code can be found in: CNN.ipynb
