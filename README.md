@@ -17,7 +17,9 @@ All the code is built up by functions with all parameters as well as the dataset
 
 # Random Forest
 
+
 # CNN model: 
+The CNN model code can be found in: CNN.ipynb
 First in the code one can see the model with one convolutional layer. This is followed by the actual running of the code with parameters. All the calls can be seen below each function.
 After is the two layer one. This one has the same tests and we then have an parameter optimization. This part is all commented on in the top. It consists of three code blocks first a pip install followed by the function and then the actuall testing. After this the code test on the 2 layer convolutional layer (same function as previously) with the new parameters in the function calling. After this some broad optimization was performed followed by fine tuning and then testing of these new parameters.
 
